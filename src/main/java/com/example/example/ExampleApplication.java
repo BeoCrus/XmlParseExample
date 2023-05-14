@@ -52,26 +52,6 @@ public class ExampleApplication {
             "            <exchangeRatesList_3_participantId>10027</exchangeRatesList_3_participantId>\n" +
             "            <exchangeRatesList_2_sellRate>7.656862745135</exchangeRatesList_2_sellRate>\n" +
             "            <effectiveDate>2023-05-12T08:00:00Z</effectiveDate>\n" +
-
-            //exchangeRatesList_1_buyRate = 7.9662
-            //exchangeRatesList_2_participantId = 10039
-            //exchangeRatesList_2_buyRate = 7.9662
-            //exchangeRatesList_0_buyRate = 7.9662
-            //exchangeRatesList_3_buyRate = 7.9662
-            //exchangeRatesList_0_sellRate = 7.656862745135
-            //exchangeRatesList_0_currencyCode = KZT
-            //exchangeRatesList_2_currencyCode = KZT
-            //exchangeRatesList_3_currencyCode = KZT
-            //#text =
-            //exchangeRatesList_1_currencyCode = KZT
-            //exchangeRatesList_0_participantId = 10038
-            //exchangeRatesList_1_sellRate = 7.656862745135
-            //exchangeRatesList_1_participantId = 10055
-            //exchangeRatesList_3_sellRate = 7.656862745135
-            //exchangeRatesList_3_participantId = 10027
-            //exchangeRatesList_2_sellRate = 7.656862745135
-            //effectiveDate = 2023-05-12T08:00:00Z
-
             "        </result_data>\n" +
             "        <result_code>0</result_code>\n" +
             "        <result_desc>OK</result_desc>\n" +
